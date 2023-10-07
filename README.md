@@ -2,7 +2,6 @@
 
 Nesse desafio o Felipao pediu para criar uma calculadora de partidas rankeadas com as seguintes instruções.
 
-Instruções para entrega
  # 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
